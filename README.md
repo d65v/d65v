@@ -5,8 +5,8 @@
 **project**: 2
 
 - MyProject:
- - [Vecbase](https://github.com/d65v/VecBase/)
- - [TiWatch](https://github.com/d65v/Tiwatch/)
+  - [Vecbase](https://github.com/d65v/VecBase/)
+  - [TiWatch](https://github.com/d65v/Tiwatch/)
 
 **experience**: "**rust**: 7 month+" |  "**C**: 1 years+"  
 
@@ -19,10 +19,7 @@
   - descripstions : "This is A lightwegiht Vector database."
 ```
 
-> ![Note]
 
 > you can contribute and fork, all my project.
-
 > If you like my project, you can like my project. 
-
 > thank You.
