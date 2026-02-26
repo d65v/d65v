@@ -21,5 +21,5 @@
 
 
 > you can contribute and fork, all my project.
-> If you like my project, you can like my project. 
+> If you stars my project, you can like my project. 
 > thank You.
