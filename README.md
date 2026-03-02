@@ -8,6 +8,10 @@
   - [Vecbase](https://github.com/d65v/VecBase/)
   - [TiWatch](https://github.com/d65v/Tiwatch/)
 
+- Worked On:
+  - [VecBase](https://github.com/d65/VecBase/)
+  - [bride](https://github.com/d65v/bride/)
+
 **experience**: "**rust**: 7 month+" |  "**C**: 1 years+"  
 
 **descriptions**:
@@ -15,9 +19,9 @@
 ```md
 - Only A Normal beginner Developers Thats Like Rust.
  - Backend ( Database, CLI, Tools, Devops )
- - projects currently being worked on : ~~"VecBase"~~
+ - projects currently being worked on : "VecBase"
   - descripstions : "This is A lightwegiht Vector database."
- - project currently being worked on : "**bride**"
+ - project currently being worked on : "bride"
   - descriptions : "A lightweight Reverse proxy Like Kong. with rust"
 ```
 
