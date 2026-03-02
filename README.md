@@ -12,11 +12,13 @@
 
 **descriptions**:
 
-```
+```md
 - Only A Normal beginner Developers Thats Like Rust.
  - Backend ( Database, CLI, Tools, Devops )
- - projects currently being worked on : "VecBase" 
+ - projects currently being worked on : ~~"VecBase"~~
   - descripstions : "This is A lightwegiht Vector database."
+ - project currently being worked on : "**bride**"
+  - descriptions : "A lightweight Reverse proxy Like Kong. with rust"
 ```
 
 
