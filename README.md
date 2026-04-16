@@ -20,7 +20,7 @@
 - Only A Normal beginner Developers Thats Like Rust.
  - Backend ( Database, CLI, Tools, Devops )
  - projects currently being worked on : "VecBase"
-  - descripstions : "This is A lightwegiht Vector database."
+  - descripstions : "This is A lightweight Vector database."
  - project currently being worked on : "bride"
   - descriptions : "A lightweight Reverse proxy Like Kong. with rust"
 ```
@@ -29,3 +29,5 @@
 > you can contribute and fork, all my project.
 > If you like my project, you can stars my project. 
 > thank You.
+
+**Btw this All my project, is ( rarely updated ) Sorry. i'am on Working, This only my Side-project.. if my project have error Sorry, You Can copy the error to on issue Thanks.**
