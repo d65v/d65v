@@ -12,7 +12,7 @@
   - [VecBase](https://github.com/d65/VecBase/)
   - [bride](https://github.com/d65v/bride/)
 
-**experience**: "**rust**: 7 month+" |  "**C**: 1 years+"  
+**experience**: *secret* 
 
 **descriptions**:
 
